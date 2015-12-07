@@ -1,0 +1,34 @@
+{
+  "name": "slack-tasks",
+  "version": "1.0.0",
+  "description": "Post links to bible verses in Slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "slack-client": "^1.5.0",
+    "ws": "^0.8.1"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhorst/slack-tasks.git"
+  },
+  "keywords": [
+    "slack",
+    "tasks",
+    "todo",
+    "list"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhorst/slack-tasks/issues"
+  },
+  "homepage": "https://github.com/brandonhorst/slack-tasks",
+  "devDependencies": {},
+  "author": "@brandonhorst"
+}

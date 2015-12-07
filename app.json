@@ -1,0 +1,6 @@
+{
+  "name": "BibleBot",
+  "description": "Reply to slack messages containing bible verses",
+  "repository": "https://github.com/brandonhorst/bible-bot",
+  "keywords": ["slack", "bible", "biblegateway"]
+}
